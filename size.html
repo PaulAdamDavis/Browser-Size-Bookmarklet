@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Display Browser Size</title>
+    <meta charset="utf-8"> 
+</head>
+<body> 
+
+	<h1>Display Browser Size</h1>
+
+	<hr>
+
+	<p>Drag this link to your bookmark bar.<br>
+	<a href="javascript:function t(){
+		var w, h;
+		if (window.innerWidth && window.innerHeight) {
+			w = window.innerWidth;
+			h = window.innerHeight;
+		}
+		document.title = w + ' x ' + h;
+	}
+	t();
+	window.onresize = function() {
+		t();
+	};">Display Browser Size</a>
+	</p>
+ 
+</body>
+</html>
