@@ -2,4 +2,4 @@
 
 A little bookmarklet that shows the browser width & height in the page `<title>` attribute.
 
-Open this [5 minute fork](http://5minfork.com/PaulAdamDavis/Browser-Size-Bookmarklet) and drag the link to your bookmarks bar.
+[Click here](http://htmlpreview.github.io/?https://github.com/PaulAdamDavis/Browser-Size-Bookmarklet/blob/master/index.html) and drag the link to your bookmarks bar.
